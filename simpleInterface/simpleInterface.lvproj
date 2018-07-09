@@ -10,6 +10,7 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
+		<Item Name="messagesPayload.lvlib" Type="Library" URL="../messagesPayload.lvlib"/>
 		<Item Name="nameInterface.lvlib" Type="Library" URL="../nameInterface/nameInterface.lvlib"/>
 		<Item Name="Test VI.vi" Type="VI" URL="../Test VI.vi"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
